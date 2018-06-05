@@ -1,0 +1,36 @@
+{
+  "Akun": [
+    {
+      "id": 1,
+      "nama": "Aylwin",
+      "NoTelp":"0853324324234",
+      "user": "Aylwin",
+      "pass": "Aylwin",
+      "email":"Aylwin@gmail.com"
+    },
+    {
+      "id": 2,
+      "nama": "Andi",
+      "NoTelp":"085332324234",
+      "user": "Andi",
+      "pass": "Andi",
+      "email":"Andi@gmail.com"
+    },
+    {
+      "id": 3,
+      "nama": "Doni",
+      "NoTelp":"0821324324234",
+      "user": "Doni",
+      "pass": "Doni",
+      "email":"Doni@gmail.com"
+    },
+    {
+      "id": 4,
+      "nama": "Jhon",
+      "NoTelp":"0822124324234",
+      "user": "Jhon",
+      "pass": "Jhon",
+      "email":"Jhon@gmail.com"
+    }
+  ]
+}
