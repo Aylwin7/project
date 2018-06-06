@@ -4,8 +4,7 @@ import Login from '../screens/Login'
 import Home from '../screens/Home'
 import REDUX from '../screens/Redux'
 import Profile from '../screens/Profile'
-// import Camera from '../screens/Camera'
-
+import Messages from '../screens/Messages'
 import routesTheme from './routesTheme'
 
 
@@ -21,9 +20,9 @@ export default DrawerNavigator({
     REDUX:{
         screen:REDUX,
     },
-    // Camera:{
-    //     screen:Camera,
-    // },
+    Fcm_App:{
+        screen:Messages,
+    },
     
 },{
     drawerPosition:'left',
